@@ -1,4 +1,4 @@
-# car_sales_excel
+# 2019 Car Sales Data Analysis
 
 This project was done based on the 2019 sales data of a company. The purpose of this project is to take the opportunity to showcase my Excel skills as well as some data analysis.
 
