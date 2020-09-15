@@ -71,3 +71,6 @@ Using databars, under the conditional formatting function, we can easily see the
 
 <hr>
 
+## Findings
+The product lines Classic Cars and Vintage Cars makes up for over 50% of the total sales the dealership generated for the year 2019. There is evidence of seasonality with quantity sold and total sales the greatest in October, November, and December. 
+
